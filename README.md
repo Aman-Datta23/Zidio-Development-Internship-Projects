@@ -20,8 +20,7 @@ Optimization Techniques: Hyperparameter tuning, model optimization
 Dataset
 The dataset contains speech signals labeled with different emotions. The data is preprocessed to extract relevant features, and then split into training and testing sets.
 Installation
-Clone the repository:
-git clone https://github.com/your-username/ml-projects.git
+Clone the repository:https://github.com/Aman-Datta23/Zidio-Development-Internship-Projects/tree/main?tab=readme-ov-file
 cd ml-projects/Speech-Emotion-Recognition
 Install dependencies: pip install -r requirements.txt
 Run the project: python train_model.py
@@ -48,7 +47,7 @@ Dataset
 The MNIST dataset consists of 60,000 training images and 10,000 test images of handwritten digits. Each image is 28x28 pixels, labeled from 0 to 9.
 
 Installation
-Clone the repository: git clone https://github.com/your-username/ml-projects.git
+Clone the repository: https://github.com/Aman-Datta23/Zidio-Development-Internship-Projects/tree/main?tab=readme-ov-file
 cd ml-projects/MNIST-Digit-Classification
 Install dependencies: pip install -r requirements.txt
 Run the project: python train_model.py
